@@ -1,8 +1,8 @@
 <div align="center">
 
-![Wordmark](./assets/wordmark-dark.svg)
+![Wordmark](./assets/wordmark.svg)
 
-# REACH ORION
+# [reachorion-ops](https://github.com/reachorion-ops)
 
 **Custom CMS platforms, websites and SaaS MVPs, built to launch fast and grow cleanly.**
 
